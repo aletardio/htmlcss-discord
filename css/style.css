@@ -188,6 +188,11 @@ header {
     margin-top: 20px;
 }
 
+.download-mac-2:hover {
+    color:#8EA1E1;
+    background-color: white;
+}
+
 .download-mac:hover {
     background-color: black;
     color: white;
@@ -327,6 +332,11 @@ hr {
     color: white;
 }
 
+.footer:hover {
+    color: #8EA1E1;
+    background-color: white;
+}
+
 .blue {
     color: #8EA1E1;
 }
@@ -383,4 +393,8 @@ hr {
  
 .padding {
     padding-top: 40px;
+}
+
+.separator {
+    border: 1px solid #8EA1E1;
 }

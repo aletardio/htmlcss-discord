@@ -236,7 +236,7 @@ header {
     padding-bottom: 150px;
 }
 
-/* .bg-image-grey {
+/* .bg-img-grey {
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100%;
@@ -301,7 +301,7 @@ hr {
 
 .footer-size-black {
     height: 150px;
-
+    padding-top: 20px;
 }
 
 .col-10 {
@@ -320,12 +320,6 @@ hr {
 .lightgreen {
     background-color: #7FFFD4;
 }
-
-/* .button-footer {
-    padding: 5px;
-    justify-content: space-between;
-    height: 20px;
-} */
 
 .footer {
     background-color: #8EA1E1;

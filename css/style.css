@@ -295,22 +295,16 @@ hr {
 }
 
 .footer-size-black {
-    height: 70px;
+    height: 150px;
 
 }
 
-.col-10-start {
+.col-10 {
     width: 10%;
     display: flex;
     justify-content: start;
-    align-items: center;
-}
-
-.col-10-end {
-    width: 10%;
-    display: flex;
-    justify-content: end;
-    align-items: center;
+    align-items: start;
+    padding-top: 10px
 }
 
 .col-80 {
@@ -322,11 +316,71 @@ hr {
     background-color: #7FFFD4;
 }
 
-.button-footer {
-    background-color: #FFB6C1;
+/* .button-footer {
     padding: 5px;
     justify-content: space-between;
     height: 20px;
+} */
+
+.footer {
+    background-color: #8EA1E1;
+    color: white;
 }
 
+.blue {
+    color: #8EA1E1;
+}
 
+.title-footer {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 800;
+    padding-top: 30px;
+}
+
+.text-footer {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    padding-top: 20px;
+}
+
+.title-footer-bold {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    padding-top: 20px;
+    font-weight: 800;
+    font-size: 16px;
+}
+
+.flag {
+    width: 15px;
+    height: 10px;
+}
+
+.arrow {
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.size-icon {
+    width: 20px;
+    height: 20px;
+    margin-top: 20px;
+}
+
+.size-icon-youtube {
+    width: 25px;
+    height: 20px;
+}
+
+.space-x {
+    margin-right: 10px;
+}
+
+.space {
+    margin: 0px 10px;
+}
+ 
+.padding {
+    padding-top: 40px;
+}

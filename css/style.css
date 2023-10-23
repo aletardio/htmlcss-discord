@@ -163,7 +163,8 @@ header {
     background-image: url(../img/stars.svg);
     background-repeat: no-repeat;
     background-size: auto;
-    background-position: center;
+    background-position: top;
+    padding-top: 40px;
 
 }
 
@@ -262,7 +263,6 @@ header {
 
 .col-17 {
     width: calc(75% / 4);
-    border: 1px dashed black;
 }
 
 .pink {

@@ -22,6 +22,10 @@ header {
     filter: opacity(0.03);
 }
 
+.invert {
+    transform: rotateX(180deg);
+}
+
 /* CONTAINER HEADER */
 .container-header{
     max-width: 1200px;
